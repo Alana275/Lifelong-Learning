@@ -24,8 +24,12 @@ From *Lifelong Machine Learning, Second Edition*
 
 ## Papers
 
-### CV(Computer Vision)
+### Computer Vision and Pattern Recognition
 
+- RECALL: Lifelong Wandering: A realistic few-shot online continual learning setting.
+  [[pdf]](https://arxiv.org/abs/2206.07932.pdf)
+  - Mayank Lunayach, James Smith, Zsolt Kira. *CVPR 2022*
+  
 - RECALL: Replay-based Continual Learning in Semantic Segmentation.
   [[pdf]](https://arxiv.org/abs/2108.03673.pdf)
   [[code]](https://github.com/lttm/recall)
