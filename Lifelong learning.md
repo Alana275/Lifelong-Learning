@@ -59,7 +59,11 @@ From *Lifelong Machine Learning, Second Edition*
   [[code]](https://github.com/aimagelab/mammoth)
   - Pietro Buzzega, Matteo Boschini, Angelo Porrello, Davide Abati, Simone Calderara. *NeurIPS 2020*
 
+# Computation and Language
 
+- Unified Question Generation with Continual Lifelong Learning.
+  [[pdf]](https://arxiv.org/abs/2201.09696)
+  - Wei Yuan, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui. *WWW 2022*
 
 ## Reference
 [1] https://github.com/TouchSky-Lab/Awesome-Lifelong-Continual-Learning
