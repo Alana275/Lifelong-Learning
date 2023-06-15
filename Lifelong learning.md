@@ -32,7 +32,7 @@ From *Lifelong Machine Learning, Second Edition*
   - Andrea Maracani, Umberto Michieli, Marco Toldo, Pietro Zanuttigh. *ICCV 2021*
 
 - Few-Shot and Continual Learning with Attentive Independent Mechanisms.
-  [[pdf]](hhttps://arxiv.org/abs/2107.14053.pdf)
+  [[pdf]](https://arxiv.org/abs/2107.14053.pdf)
   [[code]](https://github.com/huang50213/AIM-Fewshot-Continual)
   - Eugene Lee, Cheng-Han Huang, Chen-Yi Lee. *ICCV 2021*
 
