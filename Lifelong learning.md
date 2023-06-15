@@ -40,7 +40,7 @@ From *Lifelong Machine Learning, Second Edition*
   [[code]](https://github.com/lttm/recall)
   - Andrea Maracani, Umberto Michieli, Marco Toldo, Pietro Zanuttigh. *ICCV 2021*
 
-### Knowledge Distillation and Incremental Learning
+### Longlife learning with Generative Models
 
 - Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhai_Hyper-LifelongGAN_Scalable_Lifelong_Learning_for_Image_Conditioned_Generation_CVPR_2021_paper.pdf)
